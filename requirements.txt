@@ -1,0 +1,4 @@
+pyTelegramBotAPI
+requests
+ibm-watson
+ibm-cloud-sdk-core
